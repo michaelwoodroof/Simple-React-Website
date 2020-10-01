@@ -1,21 +1,39 @@
 {
 	"profiles": [{
 			"name": "Abigail Rogers",
-			"desc": "lorem",
-			"twitter": "@yo",
-			"linkedin": "@bob"
+			"desc": "I am a big part of the team",
+			"twitter": "https://twitter.com/Twitter",
+			"linkedin": "https://www.linkedin.com/in/"
 		},
 		{
 			"name": "John Doe",
-			"desc": "lorem",
-			"twitter": "@yo",
-			"linkedin": "@bob"
+			"desc": "CEO",
+			"twitter": "https://twitter.com/Twitter",
+			"linkedin": "https://www.linkedin.com/in/"
 		},
 		{
-			"name": "Steve Nettlefield",
-			"desc": "lorem",
-			"twitter": "@yo",
-			"linkedin": "@bob"
+			"name": "Roger Regrettlefield",
+			"desc": "Lorem ipsum",
+			"twitter": "https://twitter.com/Twitter",
+			"linkedin": "https://www.linkedin.com/in/"
+		},
+		{
+			"name": "Bob Bettlefield",
+			"desc": "Lorem ipsum",
+			"twitter": "https://twitter.com/Twitter",
+			"linkedin": "https://www.linkedin.com/in/"
+		},
+		{
+			"name": "Angus Aettlefield",
+			"desc": "Lorem ipsum",
+			"twitter": "https://twitter.com/Twitter",
+			"linkedin": "https://www.linkedin.com/in/"
+		},
+		{
+			"name": "Zara Zettlefield",
+			"desc": "Lorem ipsum",
+			"twitter": "https://twitter.com/Twitter",
+			"linkedin": "https://www.linkedin.com/in/"
 		}
 	]
 }

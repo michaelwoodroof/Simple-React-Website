@@ -10,7 +10,8 @@ function Team() {
             <h1>The Team</h1>
             <div className="Staff">
                 {data["profiles"].map( (obj) =>
-                    <Profile name={obj.name} desc={obj.desc}/>
+                    <Profile key={obj.name} name={obj.name} desc={obj.desc}
+                    twitter={obj.twitter} linkedin={obj.linkedin}/>
                 )}
             </div>
         </div>
