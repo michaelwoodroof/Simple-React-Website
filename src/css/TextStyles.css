@@ -1,0 +1,24 @@
+h1 {
+    text-align: left;
+    color: var(--primary);
+    font-size: 18pt;
+    padding-left: 8px;
+    padding-right: 8px;
+    padding-top: 8px;
+    margin: 0;
+    font-family: 'CMUBrightRoman';
+    font-weight: semi-bold;
+    font-style: normal;
+}
+
+p {
+    text-align: left;
+    color: var(--primary-text);
+    font-size: 11pt;
+    padding-left: 8px;
+    padding-right: 8px;
+    margin: 8px, 0px, 0px, 8px;
+    font-family: 'CMUBrightRoman';
+    font-weight: normal;
+    font-style: normal;
+}

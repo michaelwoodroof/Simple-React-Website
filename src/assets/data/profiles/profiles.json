@@ -1,0 +1,21 @@
+{
+	"profiles": [{
+			"name": "Abigail Rogers",
+			"desc": "lorem",
+			"twitter": "@yo",
+			"linkedin": "@bob"
+		},
+		{
+			"name": "John Doe",
+			"desc": "lorem",
+			"twitter": "@yo",
+			"linkedin": "@bob"
+		},
+		{
+			"name": "Steve Nettlefield",
+			"desc": "lorem",
+			"twitter": "@yo",
+			"linkedin": "@bob"
+		}
+	]
+}
