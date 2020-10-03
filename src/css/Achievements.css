@@ -1,0 +1,11 @@
+.Trophy {
+    height: 70px;
+}
+
+.CircleBacker {
+    height: 90px;
+    background-color: var(--primary);;
+    width: 90px;
+    border-radius: 50%;
+    display: inline-block;
+}

@@ -1,37 +1,43 @@
 {
 	"profiles": [{
 			"name": "Abigail Rogers",
-			"desc": "I am a big part of the team",
+			"desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Enim nulla aliquet porttitor lacus luctus accumsan tortor. Id aliquet lectus proin nibh nisl condimentum id venenatis.",
 			"twitter": "https://twitter.com/Twitter",
 			"linkedin": "https://www.linkedin.com/in/"
 		},
 		{
 			"name": "John Doe",
-			"desc": "CEO",
+			"desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Faucibus et molestie ac feugiat sed lectus.",
 			"twitter": "https://twitter.com/Twitter",
 			"linkedin": "https://www.linkedin.com/in/"
 		},
 		{
 			"name": "Roger Regrettlefield",
-			"desc": "Lorem ipsum",
+			"desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. In nisl nisi scelerisque eu ultrices vitae auctor eu augue.",
 			"twitter": "https://twitter.com/Twitter",
 			"linkedin": "https://www.linkedin.com/in/"
 		},
 		{
 			"name": "Bob Bettlefield",
-			"desc": "Lorem ipsum",
+			"desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Cursus eget nunc scelerisque viverra mauris in aliquam sem. Amet porttitor eget dolor morbi non.",
 			"twitter": "https://twitter.com/Twitter",
 			"linkedin": "https://www.linkedin.com/in/"
 		},
 		{
 			"name": "Angus Aettlefield",
-			"desc": "Lorem ipsum",
+			"desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
 			"twitter": "https://twitter.com/Twitter",
 			"linkedin": "https://www.linkedin.com/in/"
 		},
 		{
 			"name": "Zara Zettlefield",
-			"desc": "Lorem ipsum",
+			"desc": "Commodo odio aenean sed adipiscing diam donec adipiscing tristique risus nec feugiat in fermentum posuere urna nec tincidunt praesent semper.",
+			"twitter": "https://twitter.com/Twitter",
+			"linkedin": "https://www.linkedin.com/in/"
+		},
+		{
+			"name": "Alula Faith",
+			"desc": "Tincidunt vitae semper quis lectus nulla at volutpat diam ut venenatis tellus in metus vulputate eu scelerisque felis imperdiet proin fermentum leo.",
 			"twitter": "https://twitter.com/Twitter",
 			"linkedin": "https://www.linkedin.com/in/"
 		}

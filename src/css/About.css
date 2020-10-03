@@ -6,3 +6,12 @@
     margin: 0 auto;
     padding-bottom: 2px;
 }
+
+li {
+    text-align: left;
+    font-size: 10pt;
+    font-family: 'CMUBrightRoman';
+    font-weight: semi-bold;
+    font-style: normal;
+    font-size: 10pt;
+}

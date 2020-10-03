@@ -30,10 +30,3 @@
     font-style: normal;
     color: var(--alt-primary);
 }
-
-.Menu {
-    display: inline;
-    float: right;
-    height: 18px;
-    margin-top: 26px;
-}

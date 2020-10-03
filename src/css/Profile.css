@@ -8,14 +8,18 @@
 
 .Desc {
     max-height: 300px;
-    min-height: 100px;
+    min-height: 140px;
     margin-top: 4px;
+    font-size: 11pt;
 }
 
 .Container {
-    width: 300px;
+    width: 250px;
+    max-width: 250px;
     margin-top: 8px;
     flex: 33%;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .HeadShot {
