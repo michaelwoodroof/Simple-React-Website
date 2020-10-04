@@ -8,6 +8,7 @@ function Header() {
             <div className="Header">
                 <img src={logo} className="Logo" alt="logo" />
                 <div className="Center">Made up Website</div>
+                <div className="Right" />
             </div>
         </div>
     )

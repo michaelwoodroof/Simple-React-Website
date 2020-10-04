@@ -1,5 +1,6 @@
 .Trophy {
     height: 70px;
+    margin-top: 10px;
 }
 
 .CircleBacker {
@@ -8,4 +9,15 @@
     width: 90px;
     border-radius: 50%;
     display: inline-block;
+}
+
+.Achievements{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    margin-top: 16px;
+}
+
+.AchievementDesc {
+    text-align: Left;
 }

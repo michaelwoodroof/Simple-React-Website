@@ -14,12 +14,14 @@
 }
 
 .Container {
-    width: 250px;
+    width: 100%;
+    min-width: 250px;
     max-width: 250px;
     margin-top: 8px;
     flex: 33%;
     margin-left: auto;
     margin-right: auto;
+    margin-bottom: 40px;
 }
 
 .HeadShot {

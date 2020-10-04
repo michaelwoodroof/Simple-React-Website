@@ -21,6 +21,12 @@
     float: left;
 }
 
+.Right {
+    height: 50px;
+    width: 50px;
+    float: right;
+}
+
 .Center {
     font-size: 30px;
     display: inline;
