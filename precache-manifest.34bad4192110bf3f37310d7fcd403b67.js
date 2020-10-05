@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "51ba7503a7970929901b5cec8d54aa42",
+    "revision": "623efaf4f469fdb89d572c997deebeeb",
     "url": "/Simple-React-Website/index.html"
   },
   {
-    "revision": "09adc1a5be6a3a889bc8",
-    "url": "/Simple-React-Website/static/css/main.b8bed5f5.chunk.css"
+    "revision": "0db40b0c5397575486a8",
+    "url": "/Simple-React-Website/static/css/main.7a4bb2ca.chunk.css"
   },
   {
     "revision": "61b68ce0aa46e934b8d6",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Simple-React-Website/static/js/2.b7ed6587.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "09adc1a5be6a3a889bc8",
-    "url": "/Simple-React-Website/static/js/main.c1146a6c.chunk.js"
+    "revision": "0db40b0c5397575486a8",
+    "url": "/Simple-React-Website/static/js/main.55cce56a.chunk.js"
   },
   {
     "revision": "3deea40383864d4a5243",
@@ -32,23 +32,23 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Simple-React-Website/static/media/email.ba66d505.svg"
   },
   {
-    "revision": "9aaf36cdaf3c6e7c3461cb58b304d0ac",
-    "url": "/Simple-React-Website/static/media/linkedin.9aaf36cd.svg"
+    "revision": "f5e3c810622c5866189e40e87dac028a",
+    "url": "/Simple-React-Website/static/media/linkedin.f5e3c810.svg"
   },
   {
-    "revision": "4b7ac033b57a18affff391e60e233a78",
-    "url": "/Simple-React-Website/static/media/melwood.4b7ac033.svg"
+    "revision": "8a9ac8341269bb63e5fe8968454df1ca",
+    "url": "/Simple-React-Website/static/media/melwood.8a9ac834.svg"
   },
   {
     "revision": "9aaaba9f2563c94818b1db817ee16a9d",
     "url": "/Simple-React-Website/static/media/placeholder.9aaaba9f.svg"
   },
   {
-    "revision": "13a5442aeaa829de5da91ee1a5d937e7",
-    "url": "/Simple-React-Website/static/media/trophy.13a5442a.svg"
+    "revision": "e35aacba9772930a3c003e26fc4f93a8",
+    "url": "/Simple-React-Website/static/media/trophy.e35aacba.svg"
   },
   {
-    "revision": "5dde72a2d9cb50e04dc10338e254cff8",
-    "url": "/Simple-React-Website/static/media/twitter.5dde72a2.svg"
+    "revision": "5884e06194deece23abd84e141a5e3a3",
+    "url": "/Simple-React-Website/static/media/twitter.5884e061.svg"
   }
 ]);
