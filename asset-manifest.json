@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/Simple-React-Website/static/css/main.b8bed5f5.chunk.css",
+    "main.js": "/Simple-React-Website/static/js/main.c1146a6c.chunk.js",
+    "main.js.map": "/Simple-React-Website/static/js/main.c1146a6c.chunk.js.map",
+    "runtime-main.js": "/Simple-React-Website/static/js/runtime-main.89f5abe8.js",
+    "runtime-main.js.map": "/Simple-React-Website/static/js/runtime-main.89f5abe8.js.map",
+    "static/js/2.b7ed6587.chunk.js": "/Simple-React-Website/static/js/2.b7ed6587.chunk.js",
+    "static/js/2.b7ed6587.chunk.js.map": "/Simple-React-Website/static/js/2.b7ed6587.chunk.js.map",
+    "index.html": "/Simple-React-Website/index.html",
+    "precache-manifest.78824d09bd0e1aa8fb6a58e391d72643.js": "/Simple-React-Website/precache-manifest.78824d09bd0e1aa8fb6a58e391d72643.js",
+    "service-worker.js": "/Simple-React-Website/service-worker.js",
+    "static/css/main.b8bed5f5.chunk.css.map": "/Simple-React-Website/static/css/main.b8bed5f5.chunk.css.map",
+    "static/js/2.b7ed6587.chunk.js.LICENSE.txt": "/Simple-React-Website/static/js/2.b7ed6587.chunk.js.LICENSE.txt",
+    "static/media/call.svg": "/Simple-React-Website/static/media/call.f3b7d629.svg",
+    "static/media/email.svg": "/Simple-React-Website/static/media/email.ba66d505.svg",
+    "static/media/linkedin.svg": "/Simple-React-Website/static/media/linkedin.9aaf36cd.svg",
+    "static/media/melwood.svg": "/Simple-React-Website/static/media/melwood.4b7ac033.svg",
+    "static/media/placeholder.svg": "/Simple-React-Website/static/media/placeholder.9aaaba9f.svg",
+    "static/media/trophy.svg": "/Simple-React-Website/static/media/trophy.13a5442a.svg",
+    "static/media/twitter.svg": "/Simple-React-Website/static/media/twitter.5dde72a2.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.89f5abe8.js",
+    "static/js/2.b7ed6587.chunk.js",
+    "static/css/main.b8bed5f5.chunk.css",
+    "static/js/main.c1146a6c.chunk.js"
+  ]
+}
