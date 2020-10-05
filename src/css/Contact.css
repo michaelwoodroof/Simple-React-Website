@@ -1,0 +1,8 @@
+.ContactContainer {
+    display: flex;
+    text-align: left;
+    float: left;
+    max-width: 800px;
+    width: 100%;
+    margin-left: 7px;
+}

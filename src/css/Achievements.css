@@ -5,19 +5,20 @@
 
 .CircleBacker {
     height: 90px;
-    background-color: var(--primary);;
+    background-color: var(--primary);
     width: 90px;
     border-radius: 50%;
     display: inline-block;
 }
 
-.Achievements{
+.Achievements {
     display: flex;
     flex-wrap: wrap;
     flex-direction: row;
     margin-top: 16px;
 }
 
-.AchievementDesc {
-    text-align: Left;
+.AchievementMonthYear {
+    text-align: right;
+    font-size: 10pt;
 }
