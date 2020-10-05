@@ -15,31 +15,16 @@ function Contact() {
 
 class IndividualContact extends React.Component {
     render() {
-        var img;
-        if (this.props.icon === "call") {
-            img = <Phone />
-        } else {
-            img = <Email />
-        }
         return (
             <div className="ContactContainer">
-                {img}
+                {this.props.icon === "call" ?
+                    <img src={call} alt="phone"/>:
+                    <img src={email} alt="email" />
+                }
                 <p>{this.props.info}</p>
             </div>
         )
     }
-}
-
-function Phone() {
-    return (
-        <img src={call} alt="phone" />
-    )
-}
-
-function Email() {
-    return (
-        <img src={email} alt="email" />
-    )
 }
 
 export default Contact;
