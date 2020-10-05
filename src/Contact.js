@@ -32,13 +32,13 @@ class IndividualContact extends React.Component {
 
 function Phone() {
     return (
-        <img src={call} />
+        <img src={call} alt="phone" />
     )
 }
 
 function Email() {
     return (
-        <img src={email} />
+        <img src={email} alt="email" />
     )
 }
 
